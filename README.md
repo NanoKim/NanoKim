@@ -1,4 +1,4 @@
-# I'm a developer who fills in the gaps! 🐣
+# I'm a developer who consistently engages in self-development and growth! 🐣
 <img src="https://img.shields.io/badge/Java-025E8C?style=flat&logo=Java&logoColor=025E8C"/> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 
