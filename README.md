@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Java-025E8C?style=flat&logo=Java&logoColor=025E8C"/> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanoKim&show_icons=true&theme=tokyonight) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanoKim&show_icons=true&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjyyy7341)](https://solved.ac/kjyyy7341/)
 
 
 
