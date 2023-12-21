@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Java-025E8C?style=flat&logo=Java&logoColor=025E8C"/> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanoKim&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoKim&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanoKim&show_icons=true&theme=tokyonight) 
 
 
 
@@ -26,4 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+깃허브 언어통계 : ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoKim&layout=compact&theme=tokyonight)
+
 -->
