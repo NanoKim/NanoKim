@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) <img src="https://img.shields.io/badge/Slack-E34F26?style=flat&logo=HTML5&logoColor=white" />
 
 ### 📫 Contacts
 
