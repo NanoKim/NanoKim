@@ -1,4 +1,6 @@
-## I'm a developer who consistently engages in self-development and growth! 🐣
+### Hi there 👋
+
+### I'm a developer who consistently engages in self-development and growth! 🐣
 
 
 
