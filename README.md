@@ -2,9 +2,7 @@
 
 ### I'm a developer who consistently engages in self-development and growth! 🐣
 
-
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NanoKim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjyyy7341)](https://solved.ac/kjyyy7341/)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NanoKim&show_icons=true&theme=tokyonight"> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjyyy7341)](https://solved.ac/kjyyy7341/)
 
 ## 💻 Stakcs
 <img src="https://img.shields.io/badge/Java-025E8C?style=flat&logo=Java&logoColor=025E8C"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
