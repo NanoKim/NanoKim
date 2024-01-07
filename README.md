@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Good day! I'm Jayeong Kim! 
-#### I'm a developer who consistently engages in self-development and growth! 🐣
+#### I'm a Java & Backend developer who consistently engages in self-development and growth! 🐣
 #### If you want to cantact me, leave me a message please!
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NanoKim&show_icons=true&theme=tokyonight"> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjyyy7341)](https://solved.ac/kjyyy7341/)
