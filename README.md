@@ -6,7 +6,7 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NanoKim&show_icons=true&theme=tokyonight"> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjyyy7341)](https://solved.ac/kjyyy7341/)
 
 ## 💻 Stakcs
-<img src="https://img.shields.io/badge/Java-025E8C?style=flat&logo=Java&logoColor=025E8C"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-025E8C?style=flat&logo=Java&logoColor=025E8C"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
 
