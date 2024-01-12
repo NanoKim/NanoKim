@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Good day! I'm Jaeyeong Kim! 
-#### I'm a Java & Backend developer who consistently engages in self-development and growth! 🐣
-#### If you want to cantact me, leave me a message please!
+<b>I'm a Java & Backend developer who consistently engages in self-development and growth! 🐣</b><br>
+<b>If you want to cantact me, leave me a message please!</b>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NanoKim&show_icons=true&theme=tokyonight"> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjyyy7341)](https://solved.ac/kjyyy7341/)
 
@@ -14,18 +14,13 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
-  </div>  
-  
-  <br>
-  
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
+  </div><br> 
   <!-- Developments Tools -->
   <div>
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
-  </div>
-  
-  <br>
-  
+  </div><br>
   <!-- Others -->
   <div>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
