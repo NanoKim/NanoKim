@@ -28,10 +28,10 @@
   
   <!-- Others -->
   <div>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
     <a href="https://github.com/NanoKim">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">
     </a>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   </div>
 </div>
 
@@ -40,19 +40,14 @@
   <!-- Contacts -->
   <div>
     <img src="https://img.shields.io/badge/kjyyy7341@gmail.com-D14836?style=flat&logo=gmail&logoColor=white">
-    <a href="https://www.notion.so/System-out-println-Nano-fe3040183c5a459cb14b6abff5977fd0">
-      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white">
-    </a>
     <a href="https://www.linkedin.com/in/jaeyeong-kim-5987932a2/">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/">
     </a>  
+    <a href="https://www.notion.so/System-out-println-Nano-fe3040183c5a459cb14b6abff5977fd0">
+      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white">
+    </a>
   </div>
 </div>
-
-![Gmail](https://img.shields.io/badge/kjyyy7341@gmail.com-D14836?style=flat&logo=gmail&logoColor=white) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://www.notion.so/System-out-println-Nano-fe3040183c5a459cb14b6abff5977fd0) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jaeyeong-kim-5987932a2/) 
-
-
-
 
 <!--
 **NanoKim/NanoKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
