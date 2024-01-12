@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Good day! I'm Jayeong Kim! 
+### Good day! I'm Jaeyeong Kim! 
 #### I'm a Java & Backend developer who consistently engages in self-development and growth! 🐣
 #### If you want to cantact me, leave me a message please!
 
@@ -12,8 +12,8 @@
     <img src="https://img.shields.io/badge/Java-025E8C?style=flat&logo=Java&logoColor=025E8C"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
   </div>  
   
   <br>
@@ -36,18 +36,7 @@
 </div>
 
 ## 📫 Contacts
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-  <!-- Contacts -->
-  <div>
-    <img src="https://img.shields.io/badge/kjyyy7341@gmail.com-D14836?style=flat&logo=gmail&logoColor=white">
-    <a href="https://www.linkedin.com/in/jaeyeong-kim-5987932a2/">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/">
-    </a>  
-    <a href="https://www.notion.so/System-out-println-Nano-fe3040183c5a459cb14b6abff5977fd0">
-      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white">
-    </a>
-  </div>
-</div>
+<img src="https://img.shields.io/badge/kjyyy7341@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaeyeong-kim-5987932a2/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://www.notion.so/System-out-println-Nano-fe3040183c5a459cb14b6abff5977fd0)
 
 <!--
 **NanoKim/NanoKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
