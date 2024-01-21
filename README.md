@@ -29,7 +29,7 @@
 </div>
 
 ## 📫 Contacts
-<img src="https://img.shields.io/badge/kjyyy7341@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaeyeong-kim-5987932a2/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://www.notion.so/System-out-println-Nano-fe3040183c5a459cb14b6abff5977fd0)
+<img src="https://img.shields.io/badge/kjyyy7341@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nanokim) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://www.notion.so/System-out-println-Nano-fe3040183c5a459cb14b6abff5977fd0)
 
 <!--
 **NanoKim/NanoKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
