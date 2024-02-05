@@ -13,15 +13,18 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/Ajax-2c83b9?style=flat&logo=Ajax&logoColor=white"> 
   </div><br> 
   <!-- Developments Tools -->
   <div>
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
   </div><br>
   <!-- Others -->
   <div>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
     <a href="https://github.com/NanoKim">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">
     </a>
