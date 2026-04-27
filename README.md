@@ -8,7 +8,7 @@
   
   👇 **Are you curious about me?** 👇
 
-  [![](https://github.com/user-attachments/assets/b6b2506a-7ce0-4b08-8f98-f0365d007a94)](https://NanoKim.github.io)
+  [![](https://github.com/user-attachments/assets/b6b2506a-7ce0-4b08-8f98-f0365d007a94)](https://portfolio-nine-bay-43.vercel.app/#stack)
 
   
 </div>
